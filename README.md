@@ -1,1 +1,12 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta http-equiv="refresh" content="0; URL=https://x.com/madoka_sns01">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>Redirecting...</p>
+</body>
+</html>
 # -
